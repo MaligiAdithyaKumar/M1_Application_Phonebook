@@ -10,12 +10,12 @@ The objective of this project is to update the phonebook.
 
 ## Features:
 
-1. Add new Contact.
-2. Edit Contacts.
-3. Search Contacts.
-4. List Contacts
-5. Exit Contacts.
-6. Delete Contacts.
+1. Add Contact
+2. Print all contacts
+3. Modify Contacts
+4. Search Contact
+5. Delete Contacts
+6. Close Phonebook
 
 ## SWOT ANALYSIS:
 
@@ -49,12 +49,12 @@ The inconvinience is caused in storing data manually and accessing it. Digitally
 #### High Level Requirements:
 | ID | Description | Status |
 |------|------|------|
-| HLR1 | User shall be able to add new Contacts (1) | Implemented
-| HLR2 | User shall be able to Edit a Contacts (2) | Implemented
-| HLR3 | User shall be able to Search for Contacts (3) |	Implemented
-| HLR4 | User shall be able to List all Contact (4) |	Implemented
-| HLR5 | User shall be able to Exit (5) |	Implemented
-| HLR6 | User shall be able For Delete a Contact (6) |	Implemented
+| HLR1 | User shall be able to add Contact (1) | Implemented
+| HLR2 | User shall be able to Print all Contacts (2) | Implemented
+| HLR3 | User shall be able to Modify a Contacts (3) |	Implemented
+| HLR4 | User shall be able to Search for Contact (4) |	Implemented
+| HLR5 | User shall be able to Delete a Contact (5) |	Implemented
+| HLR6 | User shall be able to close Phonebook (6) |	Implemented
 
 #### Low Level Requirements:
 
