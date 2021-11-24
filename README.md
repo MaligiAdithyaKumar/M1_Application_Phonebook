@@ -5,3 +5,5 @@
 [![code quality](https://api.codiga.io/project/29973/score/svg)](https://app.codiga.io/project/29973/dashboard)
 
 [![code grade](https://api.codiga.io/project/29973/status/svg)](https://app.codiga.io/project/29973/dashboard)
+
+[![Code Quality - Cppcheck](https://github.com/MaligiAdithyaKumar/M1_Application_Phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MaligiAdithyaKumar/M1_Application_Phonebook/actions/workflows/cppcheck.yml)
