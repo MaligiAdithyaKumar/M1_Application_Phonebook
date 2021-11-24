@@ -16,7 +16,7 @@
 
 | Test ID | Description |Expected Output| Actual Output | Pass/Fail(Result)
 |--|--|--|--|--|
-| TID 1 | User shall be able to fetch perfect Required Contact | SUCCESS | SUCCESS | PASS 
+| TID 1 | User shall be able to fetch perfect Required Contact in phonebook | SUCCESS | SUCCESS | PASS 
 | TID 2 | System must display data | SUCCESS | SUCCESS | PASS
 
 ## Output
