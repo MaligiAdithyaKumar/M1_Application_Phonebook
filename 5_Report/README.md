@@ -62,3 +62,6 @@ The inconvinience is caused in storing data manually and accessing it. Digitally
 |-------|------|------|
 | LLR1 | User shall be able to fetch perfect required Contact in Phonebook | Implemented 
 | LLR2 | System must display data without error | Implemented
+
+# Structural Diagram:
+
